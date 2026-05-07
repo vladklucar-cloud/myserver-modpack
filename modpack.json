@@ -1,811 +1,817 @@
-{
+﻿{
     "name":  "MyServer Modpack",
-    "version":  "1.1.0",
+    "version":  "1.2.0",
     "minecraft":  "1.21.1",
     "loaderVersion":  "21.1.227",
     "mods":  [
                  {
                      "filename":  "aces_spell_utils-1.2.5-1.21.1.jar",
                      "name":  "aces_spell_utils",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/aces_spell_utils-1.2.5-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/aces_spell_utils-1.2.5-1.21.1.jar",
                      "sha1":  "1fb8825946420800aa7e52ff286e034146c79377"
                  },
                  {
                      "filename":  "aero_additions-1.2.7.jar",
                      "name":  "aero_additions",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/aero_additions-1.2.7.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/aero_additions-1.2.7.jar",
                      "sha1":  "5a2c825814f92b9d16e1d7df864b275a2dfbe020"
                  },
                  {
                      "filename":  "alexscaves-2.0.10.jar",
                      "name":  "alexscaves",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/alexscaves-2.0.10.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/alexscaves-2.0.10.jar",
                      "sha1":  "366ddaac40f14cd0102f026b4d999753fc1db2a4"
                  },
                  {
                      "filename":  "alexsmobs-1.22.17.jar",
                      "name":  "alexsmobs",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/alexsmobs-1.22.17.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/alexsmobs-1.22.17.jar",
                      "sha1":  "5070e8070f60650d773bfd9f1d031496f8f50259"
                  },
                  {
                      "filename":  "alltheleaks-1.1.8+1.21.1-neoforge.jar",
                      "name":  "alltheleaks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/alltheleaks-1.1.8%2B1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/alltheleaks-1.1.8%2B1.21.1-neoforge.jar",
                      "sha1":  "f91b11a1cfa718b9291fbe7b80356f17a572577e"
+                 },
+                 {
+                     "filename":  "Analog-Audio-0.1.0-beta.3-hotfix1.jar",
+                     "name":  "Analog-Audio",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Analog-Audio-0.1.0-beta.3-hotfix1.jar",
+                     "sha1":  "b80a22d688b3f5c72eb7f9584cd703ce0f071d4c"
                  },
                  {
                      "filename":  "ApothicAttributes-1.21.1-2.9.1.jar",
                      "name":  "ApothicAttributes",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ApothicAttributes-1.21.1-2.9.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ApothicAttributes-1.21.1-2.9.1.jar",
                      "sha1":  "e7f669e1b45d75076200436f37c40a6dd3b6a6ff"
                  },
                  {
                      "filename":  "apprentice_codex-0.8.1.2+mc1.21.1.jar",
                      "name":  "apprentice_codex",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/apprentice_codex-0.8.1.2%2Bmc1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/apprentice_codex-0.8.1.2%2Bmc1.21.1.jar",
                      "sha1":  "f8782e723896af36c77b10bd8817716f59756501"
                  },
                  {
                      "filename":  "architectury-13.0.8-neoforge.jar",
                      "name":  "architectury",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/architectury-13.0.8-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/architectury-13.0.8-neoforge.jar",
                      "sha1":  "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
                  },
                  {
                      "filename":  "ars_additions-1.21.1-21.3.0.jar",
                      "name":  "ars_additions",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ars_additions-1.21.1-21.3.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ars_additions-1.21.1-21.3.0.jar",
                      "sha1":  "ce2440b606acb20b79a42bf7c6c24d163c93241f"
                  },
                  {
                      "filename":  "ars_iron_mana_bridge-1.0.0.jar",
                      "name":  "ars_iron_mana_bridge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ars_iron_mana_bridge-1.0.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ars_iron_mana_bridge-1.0.0.jar",
                      "sha1":  "0d377c5d7db7fbd514780facb500837cc4e8b7c3"
                  },
                  {
                      "filename":  "ars_nouveau-1.21.1-5.11.3.jar",
                      "name":  "ars_nouveau",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ars_nouveau-1.21.1-5.11.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ars_nouveau-1.21.1-5.11.3.jar",
                      "sha1":  "0af12dd7fda63a4261ceb302c9bb57fc235641c6"
                  },
                  {
                      "filename":  "ars_ocultas-1.21.1-2.4.0.jar",
                      "name":  "ars_ocultas",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ars_ocultas-1.21.1-2.4.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ars_ocultas-1.21.1-2.4.0.jar",
                      "sha1":  "c9eacfed1170c07bd1bd239548a034a7a4256011"
                  },
                  {
                      "filename":  "ash_api-neoforge-21.1.1.jar",
                      "name":  "ash_api-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ash_api-neoforge-21.1.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ash_api-neoforge-21.1.1.jar",
                      "sha1":  "723cdb086c66f93c31ce308f82aa2e552a9fac4c"
                  },
                  {
                      "filename":  "atlas_api-1.21.1-1.2.0.jar",
                      "name":  "atlas_api",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/atlas_api-1.21.1-1.2.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/atlas_api-1.21.1-1.2.0.jar",
                      "sha1":  "79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998"
                  },
                  {
                      "filename":  "attributefix-neoforge-1.21.1-21.1.3.jar",
                      "name":  "attributefix-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/attributefix-neoforge-1.21.1-21.1.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/attributefix-neoforge-1.21.1-21.1.3.jar",
                      "sha1":  "7aae849f6d2a6cb1368227407ea5deb552e100ba"
                  },
                  {
                      "filename":  "azurelib-neo-1.21.1-3.1.8.jar",
                      "name":  "azurelib-neo",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/azurelib-neo-1.21.1-3.1.8.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/azurelib-neo-1.21.1-3.1.8.jar",
                      "sha1":  "d7762c1e334ed9d654675e48782eea42057a3f7c"
                  },
                  {
                      "filename":  "baguettelib-1.21.1-NeoForge-2.0.3.jar",
                      "name":  "baguettelib",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/baguettelib-1.21.1-NeoForge-2.0.3.jar",
                      "sha1":  "e01709c880b0602b7a306201a25866e76c44f5c0"
                  },
                  {
                      "filename":  "balm-neoforge-1.21.1-21.0.56.jar",
                      "name":  "balm-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/balm-neoforge-1.21.1-21.0.56.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/balm-neoforge-1.21.1-21.0.56.jar",
                      "sha1":  "c1c1d4859c7943c7d1c181c07fa7273a1d56df15"
                  },
                  {
                      "filename":  "bellsandwhistles-0.4.7-1.21.1.jar",
                      "name":  "bellsandwhistles",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/bellsandwhistles-0.4.7-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/bellsandwhistles-0.4.7-1.21.1.jar",
                      "sha1":  "85944080f8bd47dad64a8193a70662cd9ddbb200"
                  },
                  {
                      "filename":  "bookshelf-neoforge-1.21.1-21.1.81.jar",
                      "name":  "bookshelf-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/bookshelf-neoforge-1.21.1-21.1.81.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/bookshelf-neoforge-1.21.1-21.1.81.jar",
                      "sha1":  "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
                  },
                  {
                      "filename":  "cataclysm_spellbooks-1.1.11-1.21.jar",
                      "name":  "cataclysm_spellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/cataclysm_spellbooks-1.1.11-1.21.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/cataclysm_spellbooks-1.1.11-1.21.jar",
                      "sha1":  "0ebfb1fec53e8188ca1591792590f95a283f79b4"
                  },
                  {
                      "filename":  "Chunky-NeoForge-1.4.23.jar",
                      "name":  "Chunky-NeoForge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/Chunky-NeoForge-1.4.23.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Chunky-NeoForge-1.4.23.jar",
                      "sha1":  "ab0c74743a653020fe2dfc4986b43e893947f3e9"
                  },
                  {
                      "filename":  "citadel-1.21.1-2.7.6.jar",
                      "name":  "citadel",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/citadel-1.21.1-2.7.6.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/citadel-1.21.1-2.7.6.jar",
                      "sha1":  "e0392370117ec16a721f8d65728944398de77607"
                  },
                  {
                      "filename":  "clientsort-neoforge-2.2.1+1.21.1.jar",
                      "name":  "clientsort-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/clientsort-neoforge-2.2.1%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/clientsort-neoforge-2.2.1%2B1.21.1.jar",
                      "sha1":  "84f74e5473e369aabb1242b0fa7efcb6c1df1471"
                  },
                  {
                      "filename":  "cloth-config-15.0.140-neoforge.jar",
                      "name":  "cloth-config",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/cloth-config-15.0.140-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/cloth-config-15.0.140-neoforge.jar",
                      "sha1":  "c3e5733ba4503b102589a026000fd5ce0212f6f2"
                  },
                  {
                      "filename":  "cobweb-neoforge-1.21-1.4.0.jar",
                      "name":  "cobweb-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/cobweb-neoforge-1.21-1.4.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/cobweb-neoforge-1.21-1.4.0.jar",
                      "sha1":  "5ae5dbf4184a62b9ff5bd31f6f8ba62943dd197d"
                  },
                  {
                      "filename":  "copycats-3.0.4+mc.1.21.1-neoforge.jar",
                      "name":  "copycats",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
                      "sha1":  "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
                  },
                  {
                      "filename":  "corpse-neoforge-1.21.1-1.1.13.jar",
                      "name":  "corpse-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/corpse-neoforge-1.21.1-1.1.13.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/corpse-neoforge-1.21.1-1.1.13.jar",
                      "sha1":  "a735362c4e5ef705956f1fcbac01fb9f1aae5b8e"
                  },
                  {
                      "filename":  "corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
                      "name":  "corpsecurioscompat",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar",
                      "sha1":  "821d83bb4414e93721563e9ed7670976bc2afab1"
                  },
                  {
                      "filename":  "create-1.21.1-6.0.10.jar",
                      "name":  "create",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/create-1.21.1-6.0.10.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/create-1.21.1-6.0.10.jar",
                      "sha1":  "0e97e49837bed766e6f28a4c95b04885d6acc353"
                  },
                  {
                      "filename":  "create-aeronautics-bundled-1.21.1-1.2.1.jar",
                      "name":  "create-aeronautics-bundled",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/create-aeronautics-bundled-1.21.1-1.2.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/create-aeronautics-bundled-1.21.1-1.2.1.jar",
                      "sha1":  "fdf1ae69e8b6437e0196b3a35dd2325aa904aba9"
                  },
                  {
                      "filename":  "create-enchantment-industry-2.3.1.jar",
                      "name":  "create-enchantment-industry",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/create-enchantment-industry-2.3.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/create-enchantment-industry-2.3.1.jar",
                      "sha1":  "e9a57b322459bda9905e4287d2582ad600909b11"
                  },
                  {
                      "filename":  "create-stuff-additions1.21.1_v2.1.0e.jar",
                      "name":  "create-stuff-additions1.21.1_v2.1.0e",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/create-stuff-additions1.21.1_v2.1.0e.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/create-stuff-additions1.21.1_v2.1.0e.jar",
                      "sha1":  "5de330acd44af9e09430a7710687ad176dabf1e2"
                  },
                  {
                      "filename":  "createaddition-1.5.10.jar",
                      "name":  "createaddition",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/createaddition-1.5.10.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/createaddition-1.5.10.jar",
                      "sha1":  "2bd194da923dd38239ef49df30ecf1a720d38997"
                  },
                  {
                      "filename":  "createbetterfps-1.21.1-1.1.3.jar",
                      "name":  "createbetterfps",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/createbetterfps-1.21.1-1.1.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/createbetterfps-1.21.1-1.1.3.jar",
                      "sha1":  "cd8152d80a36e872690da101a8262877e854ceee"
                  },
                  {
                      "filename":  "createbigcannons-5.11.3-mc.1.21.1.jar",
                      "name":  "createbigcannons",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/createbigcannons-5.11.3-mc.1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/createbigcannons-5.11.3-mc.1.21.1.jar",
                      "sha1":  "8b61fa850e260bdeb5d360576123f98c260afa50"
                  },
                  {
                      "filename":  "createdeco-2.1.3.jar",
                      "name":  "createdeco",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/createdeco-2.1.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/createdeco-2.1.3.jar",
                      "sha1":  "93d9eff58b46c6953e907d071e6be4e3ce07be38"
                  },
                  {
                      "filename":  "createdieselgenerators-1.21.1-1.3.11.jar",
                      "name":  "createdieselgenerators",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/createdieselgenerators-1.21.1-1.3.11.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/createdieselgenerators-1.21.1-1.3.11.jar",
                      "sha1":  "4251563ec3c21048cf0f097dd0c6d21f2475507b"
                  },
                  {
                      "filename":  "CreateDragonsPlus-1.10.0b.jar",
                      "name":  "CreateDragonsPlus",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/CreateDragonsPlus-1.10.0b.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/CreateDragonsPlus-1.10.0b.jar",
                      "sha1":  "e50ae4f50173b12232b8dbd6b85568b4b657c0cf"
                  },
                  {
                      "filename":  "create_ironspell_recipe-1.1.0-neoforge-1.21.1.jar",
                      "name":  "create_ironspell_recipe",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/create_ironspell_recipe-1.1.0-neoforge-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/create_ironspell_recipe-1.1.0-neoforge-1.21.1.jar",
                      "sha1":  "ee5abcbe40e3ef9d80758bad741efde18fa1dbe7"
                  },
                  {
                      "filename":  "crystal_chronicles-0.0.9.jar",
                      "name":  "crystal_chronicles",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/crystal_chronicles-0.0.9.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/crystal_chronicles-0.0.9.jar",
                      "sha1":  "c1f9d92149e8ae78b276487224ec708a7275b3fa"
                  },
                  {
                      "filename":  "cupboard-1.21-3.5.jar",
                      "name":  "cupboard",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/cupboard-1.21-3.5.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/cupboard-1.21-3.5.jar",
                      "sha1":  "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70"
                  },
                  {
                      "filename":  "curios-neoforge-9.5.1+1.21.1.jar",
                      "name":  "curios-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/curios-neoforge-9.5.1%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/curios-neoforge-9.5.1%2B1.21.1.jar",
                      "sha1":  "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
                  },
                  {
                      "filename":  "darkdoppelganger-3.3.0-1.21.1.jar",
                      "name":  "darkdoppelganger",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/darkdoppelganger-3.3.0-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/darkdoppelganger-3.3.0-1.21.1.jar",
                      "sha1":  "6da7daa9119f7df28ea9880fa2954bd8c828547b"
                  },
                  {
                      "filename":  "Design-n-Decor-1.21.1-2.1.0.jar",
                      "name":  "Design-n-Decor",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/Design-n-Decor-1.21.1-2.1.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Design-n-Decor-1.21.1-2.1.0.jar",
                      "sha1":  "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1"
                  },
                  {
                      "filename":  "discerning_the_eldritch-1.4.3-1.21.jar",
                      "name":  "discerning_the_eldritch",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/discerning_the_eldritch-1.4.3-1.21.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/discerning_the_eldritch-1.4.3-1.21.jar",
                      "sha1":  "e9c5621f57058094c87ca601055f9ac8b892d3d9"
                  },
                  {
                      "filename":  "efiscompat-2.6.0-neoforge-1.21.1-port.jar",
                      "name":  "efiscompat",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/efiscompat-2.6.0-neoforge-1.21.1-port.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/efiscompat-2.6.0-neoforge-1.21.1-port.jar",
                      "sha1":  "4bf6f28d5052c8e01593e121887fc88a0bbc8fd2"
                  },
                  {
                      "filename":  "elemental_synergies-1.0.4.jar",
                      "name":  "elemental_synergies",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/elemental_synergies-1.0.4.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/elemental_synergies-1.0.4.jar",
                      "sha1":  "8e893660d0276ea237ba112c761c2248cc73e5da"
                  },
                  {
                      "filename":  "entityculling-neoforge-1.10.1-mc1.21.1.jar",
                      "name":  "entityculling-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/entityculling-neoforge-1.10.1-mc1.21.1.jar",
                      "sha1":  "68759da313caf8990bcd5d961bc691fa85fa3f0e"
                  },
                  {
                      "filename":  "epic-fight-21.16.4-mc1.21.1-neoforge.jar",
                      "name":  "epic-fight",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/epic-fight-21.16.4-mc1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/epic-fight-21.16.4-mc1.21.1-neoforge.jar",
                      "sha1":  "34710c9c4462f2418f27ecc916d8e4a0dad8e892"
                  },
                  {
                      "filename":  "ess_requiem-0.1.2.jar",
                      "name":  "ess_requiem",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ess_requiem-0.1.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ess_requiem-0.1.2.jar",
                      "sha1":  "efbde8e7676e61a37009dfe311320db61b29ffb1"
                  },
                  {
                      "filename":  "expandability-12.0.0.jar",
                      "name":  "expandability",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/expandability-12.0.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/expandability-12.0.0.jar",
                      "sha1":  "70cf454b1217a350f1789fabb39b6622aac8be12"
                  },
                  {
                      "filename":  "ferritecore-7.0.3-neoforge.jar",
                      "name":  "ferritecore",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ferritecore-7.0.3-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ferritecore-7.0.3-neoforge.jar",
                      "sha1":  "9563692efb708b6b568df27a01ec52f6311928ef"
                  },
                  {
                      "filename":  "fragmentum-neoforge-1.21.1-2.1.1.jar",
                      "name":  "fragmentum-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/fragmentum-neoforge-1.21.1-2.1.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/fragmentum-neoforge-1.21.1-2.1.1.jar",
                      "sha1":  "63bf0bc2fac3ae2fece43d74542e0f45386c0100"
                  },
                  {
                      "filename":  "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
                      "name":  "gametechbcs_spellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/gametechbcs_spellbooks-3.0.0-1.21.1.jar",
                      "sha1":  "9631e1e55aca8fcdc92438345794d49dddf97e5d"
                  },
                  {
                      "filename":  "geckolib-neoforge-1.21.1-4.8.4.jar",
                      "name":  "geckolib-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/geckolib-neoforge-1.21.1-4.8.4.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/geckolib-neoforge-1.21.1-4.8.4.jar",
                      "sha1":  "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
                  },
                  {
                      "filename":  "grim-kingdoms-lost-structures-ruins-v1.0.3.jar",
                      "name":  "grim-kingdoms-lost-structures-ruins-v1.0.3",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/grim-kingdoms-lost-structures-ruins-v1.0.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/grim-kingdoms-lost-structures-ruins-v1.0.3.jar",
                      "sha1":  "71281f3859ace1c1980098ca23fa11df373ad543"
                  },
                  {
                      "filename":  "gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
                      "name":  "gtbcs_geomancy_plus",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
                      "sha1":  "67e9652799f35f1fbd09968da6f400d0229f5599"
                  },
                  {
                      "filename":  "gtbcs_spell_lib-1.5.0-1.21.1.jar",
                      "name":  "gtbcs_spell_lib",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/gtbcs_spell_lib-1.5.0-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/gtbcs_spell_lib-1.5.0-1.21.1.jar",
                      "sha1":  "6cd001c4142d51bf455bf1af029a3755779b8c85"
                  },
                  {
                      "filename":  "hazennstuff-1.4.0.8.jar",
                      "name":  "hazennstuff",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/hazennstuff-1.4.0.8.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/hazennstuff-1.4.0.8.jar",
                      "sha1":  "9f557eaae2a49674dab2c2dab8f7982f3089b447"
                  },
                  {
                      "filename":  "IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
                      "name":  "IceAndFireCE",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar",
                      "sha1":  "c4d33745a8041465f2d12bb76fc048750288ce24"
                  },
                  {
                      "filename":  "ice_and_fire_spellbooks-2.3.2-1.21.1.jar",
                      "name":  "ice_and_fire_spellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ice_and_fire_spellbooks-2.3.2-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ice_and_fire_spellbooks-2.3.2-1.21.1.jar",
                      "sha1":  "e707139e36d25a269da986d4a0441de4c1db3bd0"
                  },
                  {
                      "filename":  "idas-1.13.5+1.21.1-neoforge.jar",
                      "name":  "idas",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/idas-1.13.5%2B1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/idas-1.13.5%2B1.21.1-neoforge.jar",
                      "sha1":  "79ca4558dd307dea3bd66134f89d617776c2f92b"
                  },
                  {
                      "filename":  "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
                      "name":  "ImmediatelyFast-NeoForge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
                      "sha1":  "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
                  },
                  {
                      "filename":  "integrated_api-1.7.4+1.21.1-neoforge.jar",
                      "name":  "integrated_api",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/integrated_api-1.7.4%2B1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/integrated_api-1.7.4%2B1.21.1-neoforge.jar",
                      "sha1":  "11e291c2c37a0b7563cf7b8bc7e70aee868e6eb4"
                  },
                  {
                      "filename":  "interiors-1.21.1-neoforge-0.6.1.jar",
                      "name":  "interiors",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/interiors-1.21.1-neoforge-0.6.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/interiors-1.21.1-neoforge-0.6.1.jar",
                      "sha1":  "a558777ef4510da2f4d32ca3da6ac7384c9a9940"
                  },
                  {
                      "filename":  "irons_jewelry-1.21.1-1.6.1.1.jar",
                      "name":  "irons_jewelry",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/irons_jewelry-1.21.1-1.6.1.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/irons_jewelry-1.21.1-1.6.1.1.jar",
                      "sha1":  "9ede70b8900aa6372e09747861a2c68f7a271e0c"
                  },
                  {
                      "filename":  "irons_lib-1.21.1-1.0.2.jar",
                      "name":  "irons_lib",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/irons_lib-1.21.1-1.0.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/irons_lib-1.21.1-1.0.2.jar",
                      "sha1":  "ef92f362a352a30f927c30c2be72a2d843c41342"
                  },
                  {
                      "filename":  "irons_spellbooks-1.21.1-3.15.6.jar",
                      "name":  "irons_spellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/irons_spellbooks-1.21.1-3.15.6.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/irons_spellbooks-1.21.1-3.15.6.jar",
                      "sha1":  "c9fea9c9b38376af74b7a7da68dc8a7671f4b961"
                  },
                  {
                      "filename":  "irons_spells_dynamic_skilltree_1.1.0.jar",
                      "name":  "irons_spells_dynamic_skilltree",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/irons_spells_dynamic_skilltree_1.1.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/irons_spells_dynamic_skilltree_1.1.0.jar",
                      "sha1":  "de961262e4328fea6861f6ba94323037df2d44ab"
                  },
                  {
                      "filename":  "iss_magicfromtheeast-1.1.5.jar",
                      "name":  "iss_magicfromtheeast",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/iss_magicfromtheeast-1.1.5.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/iss_magicfromtheeast-1.1.5.jar",
                      "sha1":  "e3552ea6b7b32b843c48bf0d857237d4b7129ab0"
                  },
                  {
                      "filename":  "jei-1.21.1-neoforge-19.27.0.340.jar",
                      "name":  "jei",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/jei-1.21.1-neoforge-19.27.0.340.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/jei-1.21.1-neoforge-19.27.0.340.jar",
                      "sha1":  "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
                  },
                  {
                      "filename":  "jupiter-2.3.7-1.21.1-neoforge.jar",
                      "name":  "jupiter",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/jupiter-2.3.7-1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/jupiter-2.3.7-1.21.1-neoforge.jar",
                      "sha1":  "569fb484ea5c8e8d690945ad4cd132131a719751"
                  },
                  {
                      "filename":  "kubejs-neoforge-2101.7.2-build.348.jar",
                      "name":  "kubejs-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/kubejs-neoforge-2101.7.2-build.348.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/kubejs-neoforge-2101.7.2-build.348.jar",
                      "sha1":  "75f96b2e4157c0efdbfd9f6271d080fb6921aaf4"
                  },
                  {
                      "filename":  "lionfishapi-2.7-fix-fix.jar",
                      "name":  "lionfishapi",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lionfishapi-2.7-fix-fix.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lionfishapi-2.7-fix-fix.jar",
                      "sha1":  "af90b807eed100e899b9afa13bb75e7d45294ba3"
                  },
                  {
                      "filename":  "lithium-neoforge-0.15.3+mc1.21.1.jar",
                      "name":  "lithium-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
                      "sha1":  "9fd5fa9076044180ae7f51672de74669196ec72e"
                  },
                  {
                      "filename":  "lithostitched-1.6.8-neoforge-21.1.jar",
                      "name":  "lithostitched",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lithostitched-1.6.8-neoforge-21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lithostitched-1.6.8-neoforge-21.1.jar",
                      "sha1":  "0a332da63a3b63ca9b8f0f11a3e882b232b7d64d"
                  },
                  {
                      "filename":  "lootintegrations-1.21.1-4.7.jar",
                      "name":  "lootintegrations",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lootintegrations-1.21.1-4.7.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lootintegrations-1.21.1-4.7.jar",
                      "sha1":  "ba601fe630f444d974838bfd80a185a0e3e0309c"
                  },
                  {
                      "filename":  "lootintegrations_iceandfire-1.2.jar",
                      "name":  "lootintegrations_iceandfire",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lootintegrations_iceandfire-1.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lootintegrations_iceandfire-1.2.jar",
                      "sha1":  "4760d3dfbe2bd81edb55c7745a1332db1eeaf849"
                  },
                  {
                      "filename":  "lootintegrations_yungs-1.5.jar",
                      "name":  "lootintegrations_yungs",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lootintegrations_yungs-1.5.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lootintegrations_yungs-1.5.jar",
                      "sha1":  "9487c23169689396e3a79613953d4af341c37bd0"
                  },
                  {
                      "filename":  "lootr-neoforge-1.21.1-1.11.37.118.jar",
                      "name":  "lootr-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/lootr-neoforge-1.21.1-1.11.37.118.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/lootr-neoforge-1.21.1-1.11.37.118.jar",
                      "sha1":  "95058da06c16441211619ce46950502fd5ac1f64"
                  },
                  {
                      "filename":  "L_Ender.s.Cataclysm.1.21.1-3.27.jar",
                      "name":  "L_Ender.s.Cataclysm.1.21.1",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/L_Ender.s.Cataclysm.1.21.1-3.27.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/L_Ender.s.Cataclysm.1.21.1-3.27.jar",
                      "sha1":  "f34a5e3994fff1953c631b87b3dfa89ed62c26dc"
                  },
                  {
                      "filename":  "modernfix-neoforge-5.27.4+mc1.21.1.jar",
                      "name":  "modernfix-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/modernfix-neoforge-5.27.4%2Bmc1.21.1.jar",
                      "sha1":  "2f39363f0d6d5a5ccc2a9e0f50ad3385611c3cb7"
                  },
                  {
                      "filename":  "modonomicon-1.21.1-neoforge-1.120.1.jar",
                      "name":  "modonomicon",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/modonomicon-1.21.1-neoforge-1.120.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/modonomicon-1.21.1-neoforge-1.120.1.jar",
                      "sha1":  "e127c8ba3d194678e11a00af6422394a7ed476b1"
                  },
                  {
                      "filename":  "monsterspellbooks-0.0.11.jar",
                      "name":  "monsterspellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/monsterspellbooks-0.0.11.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/monsterspellbooks-0.0.11.jar",
                      "sha1":  "7e2cb2e8ab6a67cf0be15fef24bd09074c8b817c"
                  },
                  {
                      "filename":  "moonlight-neoforge-1.21.1-3.0.1.jar",
                      "name":  "moonlight-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/moonlight-neoforge-1.21.1-3.0.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/moonlight-neoforge-1.21.1-3.0.1.jar",
                      "sha1":  "cdc598a60969634fe4e3b05f64ae5b6bb8e7ece8"
                  },
                  {
                      "filename":  "morejs-neoforge-1.21.1-0.16.0.jar",
                      "name":  "morejs-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/morejs-neoforge-1.21.1-0.16.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/morejs-neoforge-1.21.1-0.16.0.jar",
                      "sha1":  "7e8aea4f03b18076cab5555f6d30e35ff919b342"
                  },
                  {
                      "filename":  "mowziesmobs-1.21.1-1.8.2.jar",
                      "name":  "mowziesmobs",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/mowziesmobs-1.21.1-1.8.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/mowziesmobs-1.21.1-1.8.2.jar",
                      "sha1":  "d64475cd77444b056ece6472c79d40293dc63c6c"
                  },
                  {
                      "filename":  "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
                      "name":  "NaturesCompass",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
                      "sha1":  "e19721873bebc4dbc1674bb101af39d0ea406b95"
                  },
                  {
                      "filename":  "neoorigins-2.0.3+1.21.1.jar",
                      "name":  "neoorigins",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/neoorigins-2.0.3%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/neoorigins-2.0.3%2B1.21.1.jar",
                      "sha1":  "3c3487d0f8c3e430e47d1d02fb3d4b2a7b1e8dba"
                  },
                  {
                      "filename":  "obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
                      "name":  "obscure_tooltips-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/obscure_tooltips-neoforge-1.21.1-4.2.2.jar",
                      "sha1":  "c58a798e37de2ec888a730e7899755257003bdb8"
                  },
                  {
                      "filename":  "occultism-1.21.1-neoforge-1.214.1.jar",
                      "name":  "occultism",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/occultism-1.21.1-neoforge-1.214.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/occultism-1.21.1-neoforge-1.214.1.jar",
                      "sha1":  "364bdc610dd983a3192dd195e0a70fc63f8bb454"
                  },
                  {
                      "filename":  "OctoLib-NEOFORGE-0.6.1+1.21.jar",
                      "name":  "OctoLib-NEOFORGE",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/OctoLib-NEOFORGE-0.6.1%2B1.21.jar",
                      "sha1":  "052b71b4897b3a76b4b10afda4d9342e66fb19f1"
                  },
                  {
                      "filename":  "Placebo-1.21.1-9.9.1.jar",
                      "name":  "Placebo",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/Placebo-1.21.1-9.9.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Placebo-1.21.1-9.9.1.jar",
                      "sha1":  "1c2b8c38066d6f36209c5dadee25c184ef65202e"
                  },
                  {
                      "filename":  "player-animation-lib-forge-2.0.4+1.21.1.jar",
                      "name":  "player-animation-lib-forge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
                      "sha1":  "05be8ddcc78532b9a5520c718edc6c971cd0057c"
                  },
                  {
                      "filename":  "polymorph-neoforge-1.1.0+1.21.1.jar",
                      "name":  "polymorph-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/polymorph-neoforge-1.1.0%2B1.21.1.jar",
                      "sha1":  "84f8c539fa326dc723ae62b7a6916d6b01982d07"
                  },
                  {
                      "filename":  "prickle-neoforge-1.21.1-21.1.11.jar",
                      "name":  "prickle-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/prickle-neoforge-1.21.1-21.1.11.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/prickle-neoforge-1.21.1-21.1.11.jar",
                      "sha1":  "5174059ecf97340a0de5ef211b938de26c4eaa36"
                  },
                  {
                      "filename":  "prometheus-neoforge-1.21-1.2.5.jar",
                      "name":  "prometheus-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/prometheus-neoforge-1.21-1.2.5.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/prometheus-neoforge-1.21-1.2.5.jar",
                      "sha1":  "c4ef1020569a1dfc5bb161221449d7cf13b597cb"
                  },
                  {
                      "filename":  "Quark-4.1-476.jar",
                      "name":  "Quark",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/Quark-4.1-476.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Quark-4.1-476.jar",
                      "sha1":  "cb69532ce35acd0daf79b7ceb27f95ca58c923cc"
                  },
                  {
                      "filename":  "QuarkOddities-1.21.1.jar",
                      "name":  "QuarkOddities",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/QuarkOddities-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/QuarkOddities-1.21.1.jar",
                      "sha1":  "45ed64b315f2cd3e1ef103b53faded6d45ec7117"
                  },
                  {
                      "filename":  "relics-1.21.1-0.12.0.jar",
                      "name":  "relics",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/relics-1.21.1-0.12.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/relics-1.21.1-0.12.0.jar",
                      "sha1":  "9133fc17597843613943da91212cb9d51c3a98c9"
                  },
                  {
                      "filename":  "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.4.jar",
                      "name":  "reliquified_irons_spells_and_spellbooks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.4.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.4.jar",
                      "sha1":  "0cef252a26b14e9a3aac9b646e2a823ddbdcd7ee"
                  },
                  {
                      "filename":  "rhino-2101.2.7-build.81.jar",
                      "name":  "rhino",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/rhino-2101.2.7-build.81.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/rhino-2101.2.7-build.81.jar",
                      "sha1":  "5dcc80079095706645d567353095297948a41eea"
                  },
                  {
                      "filename":  "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
                      "name":  "ritchiesprojectilelib",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar",
                      "sha1":  "ec2e4996f8bee8714173e603e379fef8a6901765"
                  },
                  {
                      "filename":  "sable-neoforge-1.21.1-1.2.2.jar",
                      "name":  "sable-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/sable-neoforge-1.21.1-1.2.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/sable-neoforge-1.21.1-1.2.2.jar",
                      "sha1":  "c5ecd3fcf60a31d84112c708abe29e341b2d1b73"
                  },
                  {
                      "filename":  "SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
                      "name":  "SmartBrainLib-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/SmartBrainLib-neoforge-1.21.1-1.16.11.jar",
                      "sha1":  "0310135a01eeceefbc7f1ab017498a65f3ad6836"
                  },
                  {
                      "filename":  "sodium-neoforge-0.6.13+mc1.21.1.jar",
                      "name":  "sodium-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
                      "sha1":  "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1"
                  },
                  {
                      "filename":  "sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
                      "name":  "sophisticatedbackpacks",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/sophisticatedbackpacks-1.21.1-3.25.42.1709.jar",
                      "sha1":  "1ca84ebfc548d23ffff733e8f264c1b92d992c10"
                  },
                  {
                      "filename":  "sophisticatedcore-1.21.1-1.4.33.1808.jar",
                      "name":  "sophisticatedcore",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/sophisticatedcore-1.21.1-1.4.33.1808.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/sophisticatedcore-1.21.1-1.4.33.1808.jar",
                      "sha1":  "d7f68f39193abf557cd27c27507f20deb499b593"
                  },
                  {
                      "filename":  "soul-fire-d-neoforge-1.21-6.1.0.jar",
                      "name":  "soul-fire-d-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/soul-fire-d-neoforge-1.21-6.1.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/soul-fire-d-neoforge-1.21-6.1.0.jar",
                      "sha1":  "877002a5aa386f9011ebc4eb3360a7647ac359d9"
                  },
                  {
                      "filename":  "supplementaries-1.21-3.5.34-neoforge.jar",
                      "name":  "supplementaries",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/supplementaries-1.21-3.5.34-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/supplementaries-1.21-3.5.34-neoforge.jar",
                      "sha1":  "9fa5889f7669d1f5f20e658f96cbf31a17c52171"
                  },
                  {
                      "filename":  "tectonic-3.0.22-neoforge-21.1.jar",
                      "name":  "tectonic",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/tectonic-3.0.22-neoforge-21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/tectonic-3.0.22-neoforge-21.1.jar",
                      "sha1":  "12b0f4af2a2eaae3d9e9cb1a8a3fd1ca7e610314"
                  },
                  {
                      "filename":  "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
                      "name":  "TerraBlender-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
                      "sha1":  "2016eed89eac0eb0510d2190c3b0b80bf4346191"
                  },
                  {
                      "filename":  "tfmg-1.2.0.jar",
                      "name":  "tfmg",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/tfmg-1.2.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/tfmg-1.2.0.jar",
                      "sha1":  "b520f3687f60a69eb265ff5b9a16759b9e124103"
                  },
                  {
                      "filename":  "threadtweak-1.21.1-NeoForge-1.0.0.jar",
                      "name":  "threadtweak",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/threadtweak-1.21.1-NeoForge-1.0.0.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/threadtweak-1.21.1-NeoForge-1.0.0.jar",
                      "sha1":  "0f247dcc81986cd4bc980af5f2ecd06e17d97ace"
                  },
                  {
                      "filename":  "traderefresh-3.0.3.jar",
                      "name":  "traderefresh",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/traderefresh-3.0.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/traderefresh-3.0.3.jar",
                      "sha1":  "5fc4d1c1b1ceaced191338a7e6b7d8c0a4e26b9b"
                  },
                  {
                      "filename":  "trading_floor-3.0.16.jar",
                      "name":  "trading_floor",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/trading_floor-3.0.16.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/trading_floor-3.0.16.jar",
                      "sha1":  "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c"
                  },
                  {
                      "filename":  "traveloptics-4.4.0.1-1.21.1.jar",
                      "name":  "traveloptics",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/traveloptics-4.4.0.1-1.21.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/traveloptics-4.4.0.1-1.21.1.jar",
                      "sha1":  "3808493ce45cdfeb6408e85578adecf13df698e8"
                  },
                  {
                      "filename":  "tunes_n_tomes-1.0.1.jar",
                      "name":  "tunes_n_tomes",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/tunes_n_tomes-1.0.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/tunes_n_tomes-1.0.1.jar",
                      "sha1":  "bdfe487e9689016a7782d672bd490aec378975c3"
                  },
                  {
                      "filename":  "uranus-2.4-1.21.1-neoforge.jar",
                      "name":  "uranus",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/uranus-2.4-1.21.1-neoforge.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/uranus-2.4-1.21.1-neoforge.jar",
                      "sha1":  "757d8dd20bf22c7157e275c2a7643cde76984e4d"
                  },
                  {
                      "filename":  "waystones-neoforge-1.21.1-21.1.30.jar",
                      "name":  "waystones-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/waystones-neoforge-1.21.1-21.1.30.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/waystones-neoforge-1.21.1-21.1.30.jar",
                      "sha1":  "1321fbbe1484498b481ef05b6aef374b07fe6a23"
                  },
                  {
                      "filename":  "worldedit-mod-7.3.8.jar",
                      "name":  "worldedit-mod",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/worldedit-mod-7.3.8.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/worldedit-mod-7.3.8.jar",
                      "sha1":  "924fe181a29bd66be6783f6d589968ab0ee02250"
                  },
                  {
                      "filename":  "xaerominimap-neoforge-1.21.1-25.3.10.jar",
                      "name":  "xaerominimap-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/xaerominimap-neoforge-1.21.1-25.3.10.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/xaerominimap-neoforge-1.21.1-25.3.10.jar",
                      "sha1":  "d4828332dd831455429156b6cfa24aa9bd99dd77"
                  },
                  {
                      "filename":  "xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
                      "name":  "xaeroworldmap-neoforge",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/xaeroworldmap-neoforge-1.21.1-1.40.11.jar",
                      "sha1":  "c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3"
                  },
                  {
                      "filename":  "YungsApi-1.21.1-NeoForge-5.1.6.jar",
                      "name":  "YungsApi",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsApi-1.21.1-NeoForge-5.1.6.jar",
                      "sha1":  "e1c394779fb9e038e4f7a1b4558d0432607d263b"
                  },
                  {
                      "filename":  "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
                      "name":  "YungsBetterDungeons",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
                      "sha1":  "73a660c13063450e555e5e2c015ae24d606b32b4"
                  },
                  {
                      "filename":  "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
                      "name":  "YungsBetterEndIsland",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar",
                      "sha1":  "832f2c17425debe74a9f267f4136f1a0f0221d19"
                  },
                  {
                      "filename":  "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
                      "name":  "YungsBetterJungleTemples",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
                      "sha1":  "d6b7ce6cf351b09cbd23147ff166c35cfdc572e8"
                  },
                  {
                      "filename":  "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
                      "name":  "YungsBetterMineshafts",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
                      "sha1":  "6a14e1d8201f068ca87ef8333e471c5378955906"
                  },
                  {
                      "filename":  "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
                      "name":  "YungsBetterNetherFortresses",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar",
                      "sha1":  "4061ece2141475227646649046fc14c2da505922"
                  },
                  {
                      "filename":  "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
                      "name":  "YungsBetterOceanMonuments",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar",
                      "sha1":  "fba629defdb92ad99ec4f411895afb6e19555a18"
                  },
                  {
                      "filename":  "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
                      "name":  "YungsBetterStrongholds",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
                      "sha1":  "5d06a5850af7c577612d4592706a8e156bbe1cbf"
                  },
                  {
                      "filename":  "YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
                      "name":  "YungsCaveBiomes",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/YungsCaveBiomes-1.21.1-NeoForge-3.1.1.jar",
                      "sha1":  "bcab81f578b3cb31e599ae327c6634b9fa8d0f04"
                  },
                  {
                      "filename":  "Zeta-1.1-39.jar",
                      "name":  "Zeta",
-                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.1.0/Zeta-1.1-39.jar",
+                     "url":  "https://github.com/vladklucar-cloud/myserver-modpack/releases/download/v1.2.0/Zeta-1.1-39.jar",
                      "sha1":  "ef6f2e1a625a9f8770a33576b682a228e441747a"
                  }
              ]
