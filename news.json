@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.1",
+      "title": "Список важливих змін:",
+      "text": "Видалено: taczvistacompat, vista-neoforge, VistaAeronauticsFix."
+    },
+    {
       "tag": "Оновлення v1.4.0",
       "title": "Список важливих змін:",
       "text": "Додано: taczvistacompat, vista-neoforge, VistaAeronauticsFix."
