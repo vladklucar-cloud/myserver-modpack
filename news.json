@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.3",
+      "title": "Список важливих змін:",
+      "text": "Додано: gyro_stabilizers. Видалено: Create Aeronautics Gyroscope Stabilizers."
+    },
+    {
       "tag": "Оновлення v1.4.2",
       "title": "Список важливих змін:",
       "text": "Додано: Create Aeronautics Gyroscope Stabilizers, modernfix-neoforge, moonlight-neoforge, PuzzlesLib-v21.1.39, servercore-neoforge, UniversalEnchants-v21.1.6, vista-neoforge, VistaAeronauricsFix. Видалено: modernfix-neoforge, moonlight-neoforge."
