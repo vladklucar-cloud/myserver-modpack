@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.4",
+      "title": "Список важливих змін:",
+      "text": "Додано: aerowear, aeroworks, createpropulsion. Видалено: gyro_stabilizers."
+    },
+    {
       "tag": "Оновлення v1.4.3",
       "title": "Список важливих змін:",
       "text": "Додано: gyro_stabilizers. Видалено: Create Aeronautics Gyroscope Stabilizers."
