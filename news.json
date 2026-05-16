@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.11",
+      "title": "Список важливих змін:",
+      "text": "Додано: toomanyrecipeviewers."
+    },
+    {
       "tag": "Оновлення v1.4.10",
       "title": "Список важливих змін:",
       "text": "Додано: emi-letsdo-compat, emixx-neoforge, emi_create_schematics, emi_enchanting, emi_loot, emi_ores, extra-mod-integrations-all-neoforge, fzzy_config, jearchaeology, kotlinforforge."
