@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.8",
+      "title": "Список важливих змін:",
+      "text": "Додано: moreculling-neoforge. Видалено: moreculling-neoforge."
+    },
+    {
       "tag": "Оновлення v1.4.7",
       "title": "Список важливих змін:",
       "text": "Додано: alltheleaks, blockentities-[NEOFORGED], c2me-neoforge-mc1.21.1, calmtheleaks, extraspecialcore, moreculling-neoforge, spark. Видалено: alltheleaks."
