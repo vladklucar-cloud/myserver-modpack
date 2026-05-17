@@ -2,6 +2,11 @@
   "subtitle": "Езена вперде!",
   "items": [
     {
+      "tag": "Оновлення v1.4.14",
+      "title": "Список важливих змін:",
+      "text": "Додано: createjeicompat, jei. Видалено: emi-letsdo-compat, emixx-neoforge, emi_create_schematics, emi_enchanting, emi_ores."
+    },
+    {
       "tag": "Оновлення v1.4.13",
       "title": "Список важливих змін:",
       "text": "Видалено: jei."
